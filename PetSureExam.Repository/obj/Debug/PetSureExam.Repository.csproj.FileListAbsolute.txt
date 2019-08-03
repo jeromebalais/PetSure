@@ -1,0 +1,11 @@
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.Repository\bin\Debug\PetSureExam.Repository.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.Repository\bin\Debug\PetSureExam.Repository.pdb
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.Repository\obj\Debug\PetSureExam.Repository.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.Repository\obj\Debug\PetSureExam.Repository.pdb
+D:\PetSure\PetSureExam\PetSureExam.Repository\bin\Debug\PetSureExam.Repository.dll
+D:\PetSure\PetSureExam\PetSureExam.Repository\bin\Debug\PetSureExam.Repository.pdb
+D:\PetSure\PetSureExam\PetSureExam.Repository\obj\Debug\PetSureExam.Repository.csprojResolveAssemblyReference.cache
+D:\PetSure\PetSureExam\PetSureExam.Repository\obj\Debug\PetSureExam.Repository.dll
+D:\PetSure\PetSureExam\PetSureExam.Repository\obj\Debug\PetSureExam.Repository.pdb
+D:\PetSure\PetSureExam\PetSureExam.Repository\bin\Debug\PetSureExam.Model.dll
+D:\PetSure\PetSureExam\PetSureExam.Repository\bin\Debug\PetSureExam.Model.pdb

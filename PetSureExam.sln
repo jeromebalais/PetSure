@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetSureExam.API", "PetSureExam.API\PetSureExam.API.csproj", "{6A431B14-6038-4B39-A0DC-8C907D3B99F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetSureExam.Model", "PetSureExam.Model\PetSureExam.Model.csproj", "{2E241C40-ADFF-47C5-B56A-6B2089C782DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetSureExam.Service", "PetSureExam.Service\PetSureExam.Service.csproj", "{01BDB0D3-D4D3-4C5A-AF36-691F0F029DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetSureExam.Repository", "PetSureExam.Repository\PetSureExam.Repository.csproj", "{3486BE4F-F05F-44CE-908D-7D57127DD42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetSureExam.ViewModel", "PetSureExam.ViewModel\PetSureExam.ViewModel.csproj", "{17C16330-361C-4E9B-95BF-34D421D10DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A431B14-6038-4B39-A0DC-8C907D3B99F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A431B14-6038-4B39-A0DC-8C907D3B99F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A431B14-6038-4B39-A0DC-8C907D3B99F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A431B14-6038-4B39-A0DC-8C907D3B99F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E241C40-ADFF-47C5-B56A-6B2089C782DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E241C40-ADFF-47C5-B56A-6B2089C782DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E241C40-ADFF-47C5-B56A-6B2089C782DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E241C40-ADFF-47C5-B56A-6B2089C782DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BDB0D3-D4D3-4C5A-AF36-691F0F029DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BDB0D3-D4D3-4C5A-AF36-691F0F029DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BDB0D3-D4D3-4C5A-AF36-691F0F029DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BDB0D3-D4D3-4C5A-AF36-691F0F029DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3486BE4F-F05F-44CE-908D-7D57127DD42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3486BE4F-F05F-44CE-908D-7D57127DD42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3486BE4F-F05F-44CE-908D-7D57127DD42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3486BE4F-F05F-44CE-908D-7D57127DD42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C16330-361C-4E9B-95BF-34D421D10DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C16330-361C-4E9B-95BF-34D421D10DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C16330-361C-4E9B-95BF-34D421D10DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C16330-361C-4E9B-95BF-34D421D10DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

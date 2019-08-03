@@ -1,0 +1,9 @@
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.Model\bin\Debug\PetSureExam.Model.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.Model\bin\Debug\PetSureExam.Model.pdb
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.Model\obj\Debug\PetSureExam.Model.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.Model\obj\Debug\PetSureExam.Model.pdb
+D:\PetSure\PetSureExam\PetSureExam.Model\bin\Debug\PetSureExam.Model.dll
+D:\PetSure\PetSureExam\PetSureExam.Model\bin\Debug\PetSureExam.Model.pdb
+D:\PetSure\PetSureExam\PetSureExam.Model\obj\Debug\PetSureExam.Model.dll
+D:\PetSure\PetSureExam\PetSureExam.Model\obj\Debug\PetSureExam.Model.pdb
+D:\PetSure\PetSureExam\PetSureExam.Model\obj\Debug\PetSureExam.Model.csprojResolveAssemblyReference.cache

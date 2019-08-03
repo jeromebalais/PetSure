@@ -1,0 +1,211 @@
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\ApplicationInsights.config
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\csc.exe
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\vbc.exe
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\VBCSCompiler.exe
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\PetSureExam.API.dll.config
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\PetSureExam.API.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\PetSureExam.API.pdb
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Antlr3.Runtime.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Autofac.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Autofac.Integration.WebApi.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\EntityFramework.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\EntityFramework.SqlServer.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.Web.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.ApplicationInsights.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Newtonsoft.Json.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Owin.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\PetSureExam.Repository.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\PetSureExam.Service.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Net.Http.Formatting.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Helpers.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Http.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Http.Owin.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Http.WebHost.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Mvc.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Optimization.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Razor.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.Deployment.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.Razor.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\WebGrease.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\PetSureExam.Repository.pdb
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\PetSureExam.Service.pdb
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Autofac.pdb
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Autofac.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Autofac.Integration.WebApi.pdb
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Autofac.Integration.WebApi.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.Web.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.ApplicationInsights.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Newtonsoft.Json.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Net.Http.Formatting.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Helpers.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Http.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Http.WebHost.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Mvc.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Optimization.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Razor.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.Deployment.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.Razor.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Antlr3.Runtime.pdb
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\EntityFramework.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\EntityFramework.SqlServer.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\bin\System.Web.Http.Owin.xml
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\obj\Debug\PetSureExam.API.csprojResolveAssemblyReference.cache
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\obj\Debug\PetSureExam.API.dll
+c:\users\jdbalais\documents\visual studio 2015\Projects\PetSureExam\PetSureExam.API\obj\Debug\PetSureExam.API.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\ApplicationInsights.config
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\csc.exe
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\System.Collections.Immutable.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\vbc.exe
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\VBCSCompiler.exe
+D:\PetSure\PetSureExam\PetSureExam.API\bin\roslyn\VBCSCompiler.exe.config
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.API.dll.config
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.API.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.API.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Antlr3.Runtime.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Autofac.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Autofac.Integration.WebApi.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\EntityFramework.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\EntityFramework.SqlServer.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.DependencyCollector.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.Web.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.WindowsServer.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.ApplicationInsights.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Google.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Web.Infrastructure.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Newtonsoft.Json.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Owin.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.Repository.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.Service.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Net.Http.Formatting.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Helpers.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Http.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Http.Owin.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Http.WebHost.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Mvc.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Optimization.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Razor.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.Deployment.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.Razor.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\WebGrease.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.Repository.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.Service.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Autofac.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Autofac.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Autofac.Integration.WebApi.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Autofac.Integration.WebApi.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.DependencyCollector.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.Web.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AI.WindowsServer.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.ApplicationInsights.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Newtonsoft.Json.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Net.Http.Formatting.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Helpers.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Http.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Http.WebHost.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Mvc.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Optimization.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Razor.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.Deployment.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.WebPages.Razor.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Antlr3.Runtime.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\EntityFramework.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\EntityFramework.SqlServer.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Google.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\System.Web.Http.Owin.xml
+D:\PetSure\PetSureExam\PetSureExam.API\obj\Debug\PetSureExam.API.csprojResolveAssemblyReference.cache
+D:\PetSure\PetSureExam\PetSureExam.API\obj\Debug\PetSureExam.API.dll
+D:\PetSure\PetSureExam\PetSureExam.API\obj\Debug\PetSureExam.API.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.API.XML
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Swashbuckle.Core.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\WebActivatorEx.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.Model.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.Model.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.ViewModel.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\PetSureExam.ViewModel.pdb
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Hosting.dll
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\PetSure\PetSureExam\PetSureExam.API\bin\Microsoft.Owin.Hosting.xml

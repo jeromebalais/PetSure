@@ -1,0 +1,5 @@
+D:\PetSure\PetSureExam\PetSureExam.ViewModel\bin\Debug\PetSureExam.ViewModel.dll
+D:\PetSure\PetSureExam\PetSureExam.ViewModel\bin\Debug\PetSureExam.ViewModel.pdb
+D:\PetSure\PetSureExam\PetSureExam.ViewModel\obj\Debug\PetSureExam.ViewModel.dll
+D:\PetSure\PetSureExam\PetSureExam.ViewModel\obj\Debug\PetSureExam.ViewModel.pdb
+D:\PetSure\PetSureExam\PetSureExam.ViewModel\obj\Debug\PetSureExam.ViewModel.csprojResolveAssemblyReference.cache
