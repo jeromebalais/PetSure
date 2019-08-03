@@ -10,4 +10,7 @@ that will accept the Authorization="abcd1234"
 
 The logfile path for the exception is in the bin folder.
 
+
+Note: All data is static and hardcoded in repository layer. 
+
 Thank You!
